@@ -1,4 +1,3 @@
-Kristian	
-Germany	
+shio		
 Meta Front-End course
 
